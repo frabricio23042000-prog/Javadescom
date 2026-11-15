@@ -5,7 +5,7 @@ on:
     inputs:
       file:
         description: "Ruta del .so dentro del repo"
-        default: "input/libZyZGfx64.so"
+        default: "input/libbio4af.so"
   push:
     paths:
       - "input/**"
